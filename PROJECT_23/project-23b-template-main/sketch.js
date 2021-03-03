@@ -75,7 +75,7 @@ function draw() {
   package.y= packageBody.position.y 
 
   drawSprites();
-  keyPressed();
+
  
 }
 keyPressed = function()
